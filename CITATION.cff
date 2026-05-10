@@ -2,17 +2,18 @@
 # Visit https://bit.ly/cffinit to generate yours today!
 
 cff-version: 1.2.0
-title: AMORe-CMS: Automatic Model Order Reduction using Component Mode Syntesis
+title: "AMORe-CMS: Automatic Model Order Reduction using Component Mode Synthesis"
 message: >-
   If you use this software, please cite it using the
   metadata from this file.
 type: software
 authors:
-  - given-names: FILIPPOS
-    family-names: KATSIMALIS
-    email: f.katsimalis@gmail.com
-repository-code: 'https://github.com/FK-MAD/AMORe-CMS'
-url: 'https://github.com/FK-MAD/AMORe-CMS'
+- given-names: Filippos
+  family-names: Katsimalis
+  email: fkatsimalis@gmail.com
+  orcid: "https://orcid.org/0009-0006-9524-4295"
+repository-code: 'https://github.com/fkatsimalis/AMORe-CMS'
+url: 'https://github.com/fkatsimalis/AMORe-CMS'
 abstract: >-
   AMORe-CMS is MATLAB software that automatically performs physics-based
   model order reduction using component mode synthesis on
