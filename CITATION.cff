@@ -29,3 +29,15 @@ license: CC-BY-NC-ND-4.0
 commit: 8b20bfeb3246f5f9922b40a94708ef9b6904b3fa
 version: 1.0.0
 date-released: '2022-07-17'
+
+preferred-citation:
+  type: thesis
+  authors:
+    - given-names: Filippos
+      family-names: Katsimalis
+  title: "Advanced Model Reduction Techniques for Structural Dynamics Simulations"
+  school: "University of Thessaly"
+  year: 2021
+  address: "Volos, Greece"
+  institution: "Department of Mechanical Engineering"
+  url: "https://ir.lib.uth.gr/xmlui/handle/11615/57557"
