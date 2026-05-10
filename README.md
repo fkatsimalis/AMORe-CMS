@@ -5,10 +5,17 @@ Works with 3D and 2D structural FE models created with COMSOL Multiphysics. The 
 The code is written in MATLAB and communicates with COMSOL Multiphysics through LiveLink for MATLAB. I developed it for my diploma thesis ["Advanced Model Reduction Techniques for Structural Dynamics Simulations"](https://ir.lib.uth.gr/xmlui/handle/11615/57557?locale-attribute=en) at the System Dynamics Lab (SDLab) of the Department of Mechanical Engineering, University of Thessaly. MATLAB must be started with a COMSOL server (using LiveLink).
 In the future, a user guide might be written.
 
-**Citing this work**
-- If you use this software in your work, please cite it using the metadata in the [citation file](https://github.com/FK-MAD/AMORe-CMS/blob/main/CITATION.cff).
-- If you use the thesis in your work, please cite is as: F. Katsimalis, _Advanced Model Reduction Techniques for Structural Dynamics Simulations (thesis)_. Univeristy of Thessaly, 2021.
-
+If you use AMORe-CMS in your work, please cite it using the [citation file](https://github.com/FK-MAD/AMORe-CMS/blob/main/CITATION.cff), along with the thesis on which it is based:
+```bibtex
+@mastersthesis{Katsimalis2021,
+  author  = {Katsimalis, Filippos},
+  title   = {Advanced Model Reduction Techniques for Structural Dynamics Simulations},
+  school  = {University of Thessaly, Department of Mechanical Engineering},
+  year    = {2021},
+  address = {Volos, Greece},
+  url     = {https://ir.lib.uth.gr/xmlui/handle/11615/57557}
+}
+```
 <!-- **User Guide:** A user guide is underway and will be released once it is ready :wink: -->
 
 # Main Features
